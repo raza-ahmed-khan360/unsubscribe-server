@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/unsubscribe",
+      "dest": "/api/unsubscribe.js"
+    }
+  ]
+}
